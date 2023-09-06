@@ -9,7 +9,7 @@ import winsound
 import math
 
 
-imgdir='img/'
+imgdir='ABCimg/'
 delay_degree = 0
 crop_w, crop_h = 200, 200
 last_im_a=0
